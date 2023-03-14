@@ -1,0 +1,6 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Óªò£ıÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡³¨Œøÿÿÿÿ8õ¸ğ»Ğ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×µãğ8ÇÏ¼Ğ0
+S
+java:S1128"6Remove this unused import 'jakarta.persistence.Query'.(³¸³æ8ùµÎ¼Ğ0
